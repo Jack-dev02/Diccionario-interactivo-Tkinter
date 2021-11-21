@@ -12,11 +12,7 @@ ventana.geometry("820x600")#Tamaño de la ventana
 
 
 #Este es el diccionario que contiene la informacion que buscara el usuario
-rollos = {'855 mar':'56" 855 Mar Peso 5.8 - 6.1 / Espesor 89 - 92',
-          '855 MAR':'56" 855 Mar Peso 5.8 - 6.1 / Espesor 89 - 92',
-          '066 mar':'56", 48" 066 mar Peso 5.5 - 5.8 / Espesor 85 - 88',
-          '066 MAR':'56", 48" 066 mar Peso 5.5 - 5.8 / Espesor 85 - 88',
-         }
+rollos = {}
 
 #Esta son las variables que se usaran en el programa
 ingreso = StringVar()
