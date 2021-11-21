@@ -1,0 +1,2 @@
+# Diccionario-interactivo-grafico-Tkinter
+
